@@ -22,3 +22,4 @@ mi_lista_1.clear()#para vaciar una lista
 print(mi_lista_1)
 print(mi_lista_2)
 del mi_lista_2# para borrar una lista
+print(type(mi_lista_1))
